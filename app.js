@@ -1,7 +1,7 @@
 var url = "data.json";
 
-var type = "";
-var city = "";
+var type = "all";
+var city = "all";
 
 loadDropdowns();
 drawTable(type, city);
@@ -35,6 +35,9 @@ function loadDropdowns() {
             } else {
             }
         } catch { }
+
+        cities.push("all");
+        types.push("all");
 
         cities.sort();
         types.sort();
@@ -70,15 +73,15 @@ function drawTable(type, city) {
         try {
             if (data != null && data["all"].places.length > 0) {
                 data["all"].places.forEach((element) => {
-                    if (type == "" && city == "") {
+                    if (type == "all" && city == "all") {
                         places.push(element);
                     }
-                    else if (type == "" && city != "") {
+                    else if (type == "all" && city != "") {
                         if (city == element.city) {
                             places.push(element);
                         }
                     }
-                    else if (type != "" && city == "") {
+                    else if (type != "" && city == "all") {
                         if (type == element.type) {
                             places.push(element);
                         }
@@ -90,7 +93,9 @@ function drawTable(type, city) {
                     }
                 });
 
-                places.sort((a, b) => a.title - b.title);
+                places = Object.values(places).sort(function (a, b) {
+                    return a.title > b.title ? 1 : -1;
+                });
 
                 places.forEach((place) => {
                     var newTr =

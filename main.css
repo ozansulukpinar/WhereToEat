@@ -1,0 +1,25 @@
+.option {
+    text-align: center;
+}
+
+table,
+td,
+th {
+    border: 1px solid;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+button {
+    float: right;
+}
