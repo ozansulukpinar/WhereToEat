@@ -147,7 +147,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "meşrutiyet mahallesi şair nigar sokak no:11 34365 şişli",
-        "suggestions": "orman meyveli cheesecake, sütlü cheesecake, filtre kahve"
+        "suggestions": "orman meyveli cheesecake, süt reçelli cheesecake, filtre kahve"
       },
       {
         "title": "karafırın",
@@ -280,7 +280,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "vişnezade mahallesi şair nedim caddesi no:35/a d:1 34353 beşiktaş",
-        "suggestions": "san sebastian cheesecake, çay"
+        "suggestions": "san sebastian cheesecake"
       },
       {
         "title": "limonluk kafe",
@@ -1023,6 +1023,13 @@
 	      "city": "istanbul",
 	      "address": "türkali mahallesi yaverağa sokak no:1/a 34357 beşiktaş",
         "suggestions": "acıbadem, koko, kurabiye, landöşe"
+      },
+      {
+        "title": "dürümzade",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "hüseyinağa mahallesi kamer hatun caddesi 26/a 34435 beyoğlu",
+        "suggestions": "adana dürüm"
       }
     ]
   }
