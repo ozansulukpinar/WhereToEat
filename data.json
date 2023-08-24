@@ -175,7 +175,7 @@
         "type": "burger",
 	      "city": "istanbul",
 	      "address": "vişnezade mahallesi dibekçi sokak no:11 34357 beşiktaş",
-        "suggestions": "burger, patates kızartması, reyhanlı ayran"
+        "suggestions": "burger, patates kızartması, reyhanlı fermante ayran"
       },
       {
         "title": "çağrı büfe",
@@ -538,7 +538,7 @@
         "title": "istanbul büfe",
         "type": "restaurant",
 	      "city": "istanbul",
-	      "address": "kartaltepe mahallesi pelinli sokak no:26 d:F 34145 bakırköy",
+	      "address": "kartaltepe mahallesi pelinli sokak no:26 d:f 34145 bakırköy",
         "suggestions": "sandviç"
       },
       {
@@ -641,7 +641,7 @@
       },
       {
         "title": "bombacı fatih",
-        "type": "restaurant",
+        "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi beşiktaş caddesi no:15 34353 beşiktaş",
         "suggestions": "bomba"
@@ -895,7 +895,7 @@
         "title": "özkan tantuni",
         "type": "restaurant",
 	      "city": "mersin",
-	      "address": "çankaya mahallesi atatürk caddesi no:1/M 33070 akdeniz",
+	      "address": "çankaya mahallesi atatürk caddesi no:1/m 33070 akdeniz",
         "suggestions": "tantuni"
       },
             {
@@ -994,7 +994,7 @@
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şehit asım caddesi no:8 34353 beşiktaş",
-        "suggestions": "acıbadem, koko, kurabiye, kandil simidi, mekik, selanik gevreği"
+        "suggestions": "acıbadem, koko, kurabiye, kandil simidi, mekik, selanik gevreği, susamlı çubuk"
       },
       {
         "title": "day day pastanesi",
@@ -1028,8 +1028,22 @@
         "title": "dürümzade",
         "type": "restaurant",
 	      "city": "istanbul",
-	      "address": "hüseyinağa mahallesi kamer hatun caddesi 26/a 34435 beyoğlu",
+	      "address": "hüseyinağa mahallesi kamer hatun caddesi no:26/a 34435 beyoğlu",
         "suggestions": "adana dürüm"
+      },
+      {
+        "title": "kovan fırın",
+        "type": "patisserie",
+	      "city": "istanbul",
+	      "address": "cihangir mahallesi sıraselviler caddesi no:81 34433 beyoğlu",
+        "suggestions": "bomba"
+      },
+      {
+        "title": "çağrı market",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "paşa mahallesi ortanca sokak no:42 34379 şişli",
+        "suggestions": "(ancora) elma suyu, erik suyu, vişne suyu, kara üzüm suyu, karadut suyu, nar suyu"
       }
     ]
   }
