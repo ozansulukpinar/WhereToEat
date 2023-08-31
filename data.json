@@ -42,7 +42,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kemankeş karamustafa paşa mahallesi kemankeş caddesi no:67 34425 beyoğlu",
-        "suggestions": "baklava"
+        "suggestions": "karışık baklava, burger baklava, soğuk baklava"
       },
       {
         "title": "girandola gelato italiano",
@@ -1043,7 +1043,42 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "paşa mahallesi ortanca sokak no:42 34379 şişli",
-        "suggestions": "(ancora) elma suyu, erik suyu, vişne suyu, kara üzüm suyu, karadut suyu, nar suyu"
+        "suggestions": "(ancora) elma suyu, erik suyu, vişne suyu, kara üzüm suyu, karadut suyu, nar suyu, portakal suyu, karışık meyve suyu"
+      },
+      {
+        "title": "iskenderun erdal usta'nın meşhur zurna dürümü",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "osmanağa mahallesi vişne sokak no:7/a 34714 kadıköy",
+        "suggestions": "zurna tavuk dürüm"
+      },
+      {
+        "title": "karadeniz pide ve kebap salonu sezai usta",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "hacı kadın mahallesi katip çelebi caddesi no:47 34134 fatih",
+        "suggestions": "karadeniz pidesi, sürahi ayran"
+      },
+      {
+        "title": "petek turşuları",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "asmalı mescit mahallesi dudu odaları sokak no:1/d 34435 beyoğlu",
+        "suggestions": "turşu suyu"
+      },
+      {
+        "title": "hocapaşa pidecisi",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "hoca paşa mahallesi hoca paşa sokak no:11 34110 fatih",
+        "suggestions": "tavuklu pide"
+      },
+      {
+        "title": "sakarya tatlıcısı",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "hüseyinağa mahallesi dudu odaları sokak no:3 34435 beyoğlu",
+        "suggestions": "kaymaklı ekmek kadayıfı, çay"
       }
     ]
   }
