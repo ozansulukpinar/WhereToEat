@@ -3,8 +3,6 @@ var url = "data.json";
 var type = "all";
 var city = "all";
 
-window.open("https://github.com/ozansulukpinar/WhereToEat", "_blank", 'location=yes,height=570,width=520,scrollbars=yes,status=yes');
-
 loadDropdowns();
 drawTable(type, city);
 

@@ -319,7 +319,7 @@
       },
       {
         "title": "hüsmen ağa turşucusu",
-        "type": "restaurant",
+        "type": "pickle juice",
 	      "city": "ankara",
 	      "address": "cumhuriyet mahallesi sakarya caddesi no:11/a çankaya",
         "suggestions": "turşu suyu"
@@ -424,14 +424,14 @@
       },
       {
         "title": "hacı zafer turşucusu",
-        "type": "restaurant",
+        "type": "pickle juice",
 	      "city": "istanbul",
 	      "address": "alibeyköy mahallesi gazi osmanpaşa caddesi no:4/a 34060 eyüpsultan",
         "suggestions": "turşu suyu"
       },
       {
         "title": "asri turşucusu",
-        "type": "restaurant",
+        "type": "pickle juice",
 	      "city": "istanbul",
 	      "address": "kuloğlu mahallesi ağa hamamı sokak no:9/a 34334 beyoğlu",
         "suggestions": "turşu suyu"
@@ -494,7 +494,7 @@
       },
       {
         "title": "soydan turşuları",
-        "type": "restaurant",
+        "type": "pickle juice",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şair leyla sokak no:9 d:1 34353 beşiktaş",
         "suggestions": "turşu suyu"
@@ -1061,7 +1061,7 @@
       },
       {
         "title": "petek turşuları",
-        "type": "restaurant",
+        "type": "pickle juice",
 	      "city": "istanbul",
 	      "address": "asmalı mescit mahallesi dudu odaları sokak no:1/d 34435 beyoğlu",
         "suggestions": "turşu suyu"
