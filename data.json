@@ -1075,10 +1075,38 @@
       },
       {
         "title": "sakarya tatlıcısı",
-        "type": "restaurant",
+        "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "hüseyinağa mahallesi dudu odaları sokak no:3 34435 beyoğlu",
         "suggestions": "kaymaklı ekmek kadayıfı, çay"
+      },
+      {
+        "title": "şirin fırın",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "şahkulu mahallesi büyük hendek caddesi no:16/a 34420 beyoğlu",
+        "suggestions": "makarna"
+      },
+      {
+        "title": "bambi cafe",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "gümüşsuyu mahhalesi sıraselviler caddesi no:2/j 34437 beyoğlu",
+        "suggestions": "et döner, ıslak hamburger, açık ayran"
+      },
+      {
+        "title": "toçka pub eatery",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "gayrettepe mahallesi yıldız posta caddesi 48/a 34349 beşiktaş",
+        "suggestions": "barbekü soslu tavuk"
+      },
+      {
+        "title": "chops lounge",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "mecidiyeköy mahallesi altan erbulak sokağı no:3 34349 şişli",
+        "suggestions": "köri soslu tavuk"
       }
     ]
   }
