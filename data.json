@@ -1107,6 +1107,13 @@
 	      "city": "istanbul",
 	      "address": "mecidiyeköy mahallesi altan erbulak sokağı no:3 34349 şişli",
         "suggestions": "köri soslu tavuk"
+      },
+      {
+        "title": "baran lahmacun",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "kuloğlu mahallesi turnacıbaşı caddesi no:39/a 34433 beyoğlu",
+        "suggestions": "lahmacun, açık ayran"
       }
     ]
   }
