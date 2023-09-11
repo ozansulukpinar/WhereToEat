@@ -959,7 +959,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "cihangir mahallesi sıraselviler caddesi no:91/a 34433 beyoğlu",
-        "suggestions": "budapeşte, milföy pasta, malaga"
+        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo"
       },
       {
         "title": "feyzala kurabiye",
@@ -1114,6 +1114,20 @@
 	      "city": "istanbul",
 	      "address": "kuloğlu mahallesi turnacıbaşı caddesi no:39/a 34433 beyoğlu",
         "suggestions": "lahmacun, açık ayran"
+      },
+      {
+        "title": "arça alaçatı burger",
+        "type": "burger",
+	      "city": "istanbul",
+	      "address": "sinanpaşa mahallesi köşeli sokak no:3 34353 beşiktaş",
+        "suggestions": "molendini prime, patates kızartması"
+      },
+      {
+        "title": "göreme muhallebicisi",
+        "type": "patisserie",
+	      "city": "istanbul",
+	      "address": "feriköy mahallesi kurtuluş caddesi no:60/b 34377 şişli",
+        "suggestions": "kazandibi, fıstıklı muhallebi, çay"
       }
     ]
   }
