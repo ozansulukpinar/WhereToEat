@@ -959,7 +959,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "cihangir mahallesi sıraselviler caddesi no:91/a 34433 beyoğlu",
-        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo"
+        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta"
       },
       {
         "title": "feyzala kurabiye",
@@ -977,7 +977,7 @@
       },
       {
         "title": "borisin yeri",
-        "type": "restaurant",
+        "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "şehsuvar bey mahallesi ördekli bakkal sokak no:9 34130 fatih",
         "suggestions": "kaymak"
@@ -1128,6 +1128,13 @@
 	      "city": "istanbul",
 	      "address": "feriköy mahallesi kurtuluş caddesi no:60/b 34377 şişli",
         "suggestions": "kazandibi, fıstıklı muhallebi, çay"
+      },
+      {
+        "title": "pasifik pastanesi",
+        "type": "patisserie",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi moda caddesi no:76 34710 kadıköy",
+        "suggestions": "purple, kardinal"
       }
     ]
   }
