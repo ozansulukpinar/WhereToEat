@@ -1135,6 +1135,13 @@
 	      "city": "istanbul",
 	      "address": "caferağa mahallesi moda caddesi no:76 34710 kadıköy",
         "suggestions": "purple, kardinal"
+      },
+      {
+        "title": "tarihi pide fırını",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "demirtaş mahallesi kıble çeşme caddesi tesviyeci sokak kuveloğlu iş hanı no:1/7 eminönü",
+        "suggestions": "karışık pide, ayran"
       }
     ]
   }
