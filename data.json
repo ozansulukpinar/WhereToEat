@@ -104,7 +104,7 @@
         "title": "meşhur tortum koç cağ kebap",
         "type": "restaurant",
 	      "city": "erzurum",
-	      "address": "kazım karabekir paşa mahallesi nazik çarşısı caddesi no:6, 25100 yakutiye",
+	      "address": "kazım karabekir paşa mahallesi nazik çarşısı caddesi no:6 25100 yakutiye",
         "suggestions": "cağ kebap"
       },
       {
@@ -224,13 +224,13 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kamer hatun mahallesi kamer hatun caddesi no:3 34435 beyoğlu",
-        "suggestions": "sütlaç, çay"
+        "suggestions": "sütlaç, çay, mercimek çorbası"
       },
       {
         "title": "öz develi pidecisi",
         "type": "restaurant",
 	      "city": "istanbul",
-	      "address": "tahtakale mahallesi balkapanı Sok. no:20 eminönü fatih",
+	      "address": "tahtakale mahallesi balkapanı sokak no:20 eminönü",
         "suggestions": "develi cıvıklısı"
       },
       {
@@ -272,7 +272,7 @@
         "title": "royal çikolata ve şekerleme",
         "type": "patisserie",
 	      "city": "istanbul",
-	      "address": "cumhuriyet mahallesi feriköy fırın sokak no:6/a, 34380 şişli",
+	      "address": "cumhuriyet mahallesi feriköy fırın sokak no:6/a 34380 şişli",
         "suggestions": "çikolata, okaliptus şekeri"
       },
       {
@@ -517,7 +517,7 @@
         "title": "cihangir sosyal tesisleri",
         "type": "cafe",
 	      "city": "istanbul",
-	      "address": "kılıçalipaşa mahallesi kamacı ustası sokak no: 1 34433 beyoğlu",
+	      "address": "kılıçalipaşa mahallesi kamacı ustası sokak no:1 34433 beyoğlu",
         "suggestions": "köfte ızgara, çay, nar çiçeği şerbeti"
       },
       {
@@ -965,7 +965,7 @@
         "title": "feyzala kurabiye",
         "type": "bakery",
 	      "city": "istanbul",
-	      "address": "cevizlik mahallesi hüsreviye sok. günay iş hanı no:7/1 34158 bakırköy",
+	      "address": "cevizlik mahallesi hüsreviye sokak günay iş hanı no:7/1 34158 bakırköy",
         "suggestions": "elmalı, kavala"
       },
       {
@@ -986,7 +986,7 @@
         "title": "barbaros yoğurt ve süt mamülleri",
         "type": "patisserie",
 	      "city": "istanbul",
-	      "address": "akşemsettin mahallesi akşemsettin caddesi no:9, 34080 fatih",
+	      "address": "akşemsettin mahallesi akşemsettin caddesi no:9 34080 fatih",
         "suggestions": "kazandibi, yoğurt, manda kaymağı"
       },
       {
@@ -1098,7 +1098,7 @@
         "title": "toçka pub eatery",
         "type": "restaurant",
 	      "city": "istanbul",
-	      "address": "gayrettepe mahallesi yıldız posta caddesi 48/a 34349 beşiktaş",
+	      "address": "gayrettepe mahallesi yıldız posta caddesi no:48/a 34349 beşiktaş",
         "suggestions": "barbekü soslu tavuk"
       },
       {
@@ -1134,7 +1134,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "caferağa mahallesi moda caddesi no:76 34710 kadıköy",
-        "suggestions": "purple, kardinal"
+        "suggestions": "purple, kardinal, malaga"
       },
       {
         "title": "tarihi pide fırını",
@@ -1142,6 +1142,27 @@
 	      "city": "istanbul",
 	      "address": "demirtaş mahallesi kıble çeşme caddesi tesviyeci sokak kuveloğlu iş hanı no:1/7 eminönü",
         "suggestions": "karışık pide, ayran"
+      },
+      {
+        "title": "pizza wich",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "asmalı mescit mahallesi meşrutiyet caddesi no:13 34421 beyoğlu",
+        "suggestions": "pizza margherita"
+      },
+      {
+        "title": "fil garden",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi neşet ömer sokak 34710 kadıköy",
+        "suggestions": "patates tava"
+      },
+      {
+        "title": "kadıköy sokak cocktail bar",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi doktor esat ışık caddesi no:12 d:14/a 34710 kadıköy",
+        "suggestions": "xl beer plate"
       }
     ]
   }
