@@ -1205,6 +1205,20 @@
 	      "city": "istanbul",
 	      "address": "katip mustafa çelebi mahallesi sıraselviler caddesi no:2/b 34433 beyoğlu",
         "suggestions": "ıslak hamburger"
+      },
+      {
+        "title": "the hunger",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "kazlıçeşme mahallesi kennedy caddesi no:52 d:e/2 34020 zeytinburnu",
+        "suggestions": "şarküteri burger"
+      },
+      {
+        "title": "cookshop",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "kazlıçeşme mahallesi kennedy caddesi no:52/v 34020 zeytinburnu",
+        "suggestions": "kaburga etli ve cheddarlı pizza"
       }
     ]
   }
