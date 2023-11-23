@@ -4,7 +4,7 @@
     "places": [
       {
         "title": "dönerci sadık usta",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "haseki sultan mahallesi tütüncü hasan sokak no:1/a 34096 fatih",
         "suggestions": "et döner"
@@ -200,7 +200,7 @@
       },
       {
         "title": "kartal közde döner",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şehit asım caddesi no:4 34353 beşiktaş",
         "suggestions": "et döner, açık ayran"
@@ -340,7 +340,7 @@
       },
       {
         "title": "kebo",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "ankara",
 	      "address": "yukarı bahçelievler mahallesi 69. sokak no:34/b 06490 çankaya",
         "suggestions": "tavuk döner"
@@ -396,7 +396,7 @@
       },
       {
         "title": "berdan odun döner",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "75. yıl mahallesi fevzi çakmak caddesi no:84 34260 sultangazi",
         "suggestions": "et döner"
@@ -592,7 +592,7 @@
       },
       {
         "title": "dönerci engin usta",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "bereketzade mahallesi okçu musa caddesi no:3 34421 beyoğlu",
         "suggestions": "et döner"
@@ -725,7 +725,7 @@
       },
       {
         "title": "dönerci şahin usta",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "mollafenari mahallesi kılıçcılar sokak no:5 34120 fatih",
         "suggestions": "et döner"
@@ -739,7 +739,7 @@
       },
       {
         "title": "cici piknik",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "ankara",
 	      "address": "kızılay mahallesi kumrular caddesi no:8 d:c 06420 çankaya",
         "suggestions": "et döner"
@@ -844,7 +844,7 @@
       },
       {
         "title": "fiori döner",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "molla gürani mahallesi oğuzhan caddesi no:31 34093 fatih",
         "suggestions": "et döner"
@@ -914,7 +914,7 @@
       },
       {
         "title": "tarihi karadeniz döner",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi mumcu bakkal sokağı no:6 34353 beşiktaş",
         "suggestions": "et döner, açık ayran"
@@ -1047,7 +1047,7 @@
       },
       {
         "title": "iskenderun erdal usta'nın meşhur zurna dürümü",
-        "type": "restaurant",
+        "type": "doner kebab",
 	      "city": "istanbul",
 	      "address": "osmanağa mahallesi vişne sokak no:7/a 34714 kadıköy",
         "suggestions": "zurna tavuk dürüm"
