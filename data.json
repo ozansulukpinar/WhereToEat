@@ -60,7 +60,7 @@
       },
       {
         "title": "mustafalar lahmacun",
-        "type": "restaurant",
+        "type": "lahmacun",
 	      "city": "istanbul",
 	      "address": "kartaltepe mahallesi incirli caddesi no:38 d:c 34145 bakırköy",
         "suggestions": "lahmacun"
@@ -865,7 +865,7 @@
       },
       {
         "title": "gaziantepli mehmet usta",
-        "type": "restaurant",
+        "type": "lahmacun",
 	      "city": "istanbul",
 	      "address": "cerrahpaşa mahallesi koca mustafapaşa caddesi no:126 34098 fatih",
         "suggestions": "lahmacun"
@@ -1110,7 +1110,7 @@
       },
       {
         "title": "baran lahmacun",
-        "type": "restaurant",
+        "type": "lahmacun",
 	      "city": "istanbul",
 	      "address": "kuloğlu mahallesi turnacıbaşı caddesi no:39/a 34433 beyoğlu",
         "suggestions": "lahmacun, açık ayran"
