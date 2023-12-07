@@ -168,7 +168,7 @@
         "type": "pub",
 	      "city": "istanbul",
 	      "address": "asmalı mescit mahallesi meşrutiyet caddesi no:11/a galatasaray 34430 beyoğlu",
-        "suggestions": "etli wrap"
+        "suggestions": "etli wrap, double burger"
       },
       {
         "title": "akali",
@@ -994,7 +994,7 @@
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şehit asım caddesi no:8 34353 beşiktaş",
-        "suggestions": "acıbadem, koko, kurabiye, kandil simidi, mekik, selanik gevreği, susamlı çubuk"
+        "suggestions": "acıbadem, koko, kurabiye, kandil simidi, mekik, selanik gevreği, susamlı çubuk, susamlı galeta"
       },
       {
         "title": "day day pastanesi",
@@ -1078,7 +1078,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "hüseyinağa mahallesi dudu odaları sokak no:3 34435 beyoğlu",
-        "suggestions": "kaymaklı ekmek kadayıfı, çay"
+        "suggestions": "kaymaklı ekmek kadayıfı, kaymaklı ayva tatlısı, çay"
       },
       {
         "title": "şirin fırın",
@@ -1219,6 +1219,48 @@
 	      "city": "istanbul",
 	      "address": "kazlıçeşme mahallesi kennedy caddesi no:52/v 34020 zeytinburnu",
         "suggestions": "kaburga etli ve cheddarlı pizza"
+      },
+      {
+        "title": "damak pide ve güveç",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "merkez mahallesi ali galipbey caddesi no:62/a 34245 gaziosmanpaşa",
+        "suggestions": "güveç, peynirli pide, patatesli pide"
+      },
+      {
+        "title": "welldone",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "harbiye mahallesi abdi ipekçi caddesi no:5 34367 şişli",
+        "suggestions": "çay"
+      },
+      {
+        "title": "street pub",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "şehit muhtar mahallesi mis sokak no:19 34200 beyoğlu",
+        "suggestions": ""
+      },
+      {
+        "title": "barış büfe",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "şaşkınbakkal mahallesi bağdat caddesi no:379/a 34740 kadıköy",
+        "suggestions": "et döner, portakal suyu"
+      },
+      {
+        "title": "köyüm pide",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi moda caddesi no:166 d:c 34170 kadıköy",
+        "suggestions": "kuşbaşılı pide"
+      },
+      {
+        "title": "the churroll",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi doktor esat ışık caddesi no:42/c 34710 kadıköy",
+        "suggestions": "klasik churros, çay"
       }
     ]
   }
