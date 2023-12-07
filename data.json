@@ -161,7 +161,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "şahkulu mahallesi ilk belediye caddesi arkadaş iş hanı no:2 beyoğlu",
-        "suggestions": ""
+        "suggestions": "-"
       },
       {
         "title": "corner irish pub",
@@ -287,7 +287,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "vişnezade mahallesi dolmabahçe caddesi 34357 beşiktaş",
-        "suggestions": ""
+        "suggestions": "-"
       },
       {
         "title": "pasta la vista",
@@ -301,7 +301,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "vişnezade mahallesi milli saraylar idaresi başkanlığı dolmabahçe caddesi 34357 beşiktaş",
-        "suggestions": ""
+        "suggestions": "-"
       },
       {
         "title": "köfteci hüseyin 1958",
@@ -714,7 +714,7 @@
         "type": "coffee house",
 	      "city": "istanbul",
 	      "address": "gümüşsuyu mahallesi mete caddesi no:2 34437 beyoğlu",
-        "suggestions": ""
+        "suggestions": "-"
       },
       {
         "title": "karaca gıda",
@@ -1197,7 +1197,7 @@
         "type": "pub",
 	      "city": "istanbul",
 	      "address": "asmalı mescit mahallesi jurnal sokak no:1/a 34430 beyoğlu",
-        "suggestions": ""
+        "suggestions": "-"
       },
       {
         "title": "taksim döner",
@@ -1239,7 +1239,7 @@
         "type": "pub",
 	      "city": "istanbul",
 	      "address": "şehit muhtar mahallesi mis sokak no:19 34200 beyoğlu",
-        "suggestions": ""
+        "suggestions": "-"
       },
       {
         "title": "barış büfe",

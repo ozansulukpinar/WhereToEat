@@ -64,7 +64,7 @@ function loadDropdowns() {
 
 function drawTable(type, city) {
     $("#RestaurantTable").empty();
-    var headerTr = "<tr><th>Title</th><th>Address</th><th>Suggestion(s)</th></tr>";
+    var headerTr = "<tr class=\"header\"><th>Title</th><th>Address</th><th>Suggestion(s)</th></tr>";
     $("#RestaurantTable").append(headerTr);
 
     $.getJSON(url, function (data) {
@@ -97,6 +97,9 @@ function drawTable(type, city) {
                     return a.title > b.title ? 1 : -1;
                 });
 
+                if (places.length == 0)
+                    drawBlankRow();
+
                 places.forEach((place) => {
                     var newTr =
                         "<tr><td>" +
@@ -120,7 +123,7 @@ function drawTable(type, city) {
 }
 
 function drawBlankRow() {
-    var newTr = "There is no data";
+    var newTr = "<th colspan=\"3\" style=\"font-weight:normal;\">There is no data</th>";
     $("#RestaurantTable").append(newTr);
 }
 
@@ -130,7 +133,9 @@ function changeMode() {
 
     if ($("button").text().includes("Dark")) {
         $("button").text("Light Mode");
+        $("tr:nth-of-type(even)").css("background-color", "black");
     } else {
         $("button").text("Dark Mode");
+        $("tr:nth-of-type(even)").css("background-color", "#eee");
     }
 }
