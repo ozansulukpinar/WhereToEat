@@ -113,6 +113,13 @@ function drawTable(type, city) {
                     $("#RestaurantTable").append(newTr);
                 });
 
+                if ($('button').text().includes('Light')) {
+                    $("tr:nth-of-type(even)").css("background-color", "black");
+                }
+                else {
+                    $("tr:nth-of-type(even)").css("background-color", "#eee");
+                }
+
             } else {
                 drawBlankRow();
             }
