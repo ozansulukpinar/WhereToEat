@@ -1261,6 +1261,20 @@
 	      "city": "istanbul",
 	      "address": "caferağa mahallesi doktor esat ışık caddesi no:42/c 34710 kadıköy",
         "suggestions": "klasik churros, çay"
+      },
+      {
+        "title": "çiçi çiğ börek",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "vişnezade mahallesi özgür sokak no:13/b 34357 beşiktaş",
+        "suggestions": "çibörek, ayran"
+      },
+      {
+        "title": "barbara pub",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "osmanağa mahallesi nail bey sokak şirin apartmanı no:16 34714 kadıköy",
+        "suggestions": "-"
       }
     ]
   }
