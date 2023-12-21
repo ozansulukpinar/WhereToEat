@@ -959,7 +959,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "cihangir mahallesi sıraselviler caddesi no:91/a 34433 beyoğlu",
-        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta"
+        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta, çilekli rulo, çay"
       },
       {
         "title": "feyzala kurabiye",
@@ -1169,7 +1169,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kennedy caddesi galleria alışveriş merkezi no:13/5 34158 bakırköy",
-        "suggestions": "napoliten, margarita"
+        "suggestions": "napoliten pizza, margarita pizza"
       },
       {
         "title": "barış büfe",
@@ -1275,6 +1275,48 @@
 	      "city": "istanbul",
 	      "address": "osmanağa mahallesi nail bey sokak şirin apartmanı no:16 34714 kadıköy",
         "suggestions": "-"
+      },
+      {
+        "title": "valhalla pub",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi sakız gülü sokak no:18/a d:b 34734 kadıköy",
+        "suggestions": "-"
+      },
+      {
+        "title": "fatima 1932 deniz müzesi",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "sinanpaşa mahallesi beşiktaş caddesi no:6/2 34022 beşiktaş",
+        "suggestions": "-"
+      },
+      {
+        "title": "beer plus",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "sinanpaşa mahallesi şehit asım caddesi no:27/b 34353 beşiktaş",
+        "suggestions": "salt and vinegar patates, smash fries"
+      },
+      {
+        "title": "doyum mantı",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "firuzağa mahallesi firuzağa cami sokak 34425 beyoğlu",
+        "suggestions": "ev mantısı"
+      },
+      {
+        "title": "lokal lotus",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "halaskargazi mahallesi halaskargazi caddesi no:38 d:210 34371 şişli",
+        "suggestions": "-"
+      },
+      {
+        "title": "sotto pizza",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "kartaltepe mahallesi ülkü sokak no:13 34145 bakırköy",
+        "suggestions": "karışık pizza"
       }
     ]
   }
