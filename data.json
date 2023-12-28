@@ -1317,6 +1317,34 @@
 	      "city": "istanbul",
 	      "address": "kartaltepe mahallesi ülkü sokak no:13 34145 bakırköy",
         "suggestions": "karışık pizza"
+      },
+      {
+        "title": "asmalı pera midye",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "asmalı mescit mahallesi asmalı mescit caddesi no:12/14 34430 beyoğlu",
+        "suggestions": "istanbul usulü kokoreç, ayran"
+      },
+      {
+        "title": "asmalıpera pub",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "asmalı mescit mahallesi asmalı mescit caddesi no:15 34430 beyoğlu",
+        "suggestions": "-"
+      },
+      {
+        "title": "borsam taşfırın tarihi çarşı",
+        "type": "lahmacun",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi güneşli bahçe sokak no:22 34710 kadıköy",
+        "suggestions": "lahmacun, ayran"
+      },
+      {
+        "title": "çiğ köfteci gakgoş usta",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "zühtüpaşa mahallesi recep peker caddesi no:28 34714 kadıköy",
+        "suggestions": "çiğ köfte"
       }
     ]
   }
