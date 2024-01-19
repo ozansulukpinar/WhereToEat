@@ -945,7 +945,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "caferağa mahallesi general asım gündüz caddesi no:45/a 34710 kadıköy",
-        "suggestions": "muzlu rulo, ballı pasta, acıbadem, elmalı tart, vişneli tart, elmalı tarçınlı strudel, ekler, yaş pasta, kuru pasta, alman pastası"
+        "suggestions": "muzlu rulo, ballı pasta, acıbadem, elmalı tart, vişneli tart, elmalı tarçınlı strudel, ekler, yaş pasta, kuru pasta, alman pastası, milföy pasta"
       },
       {
         "title": "üstün palmie pastanesi",
@@ -1345,6 +1345,90 @@
 	      "city": "istanbul",
 	      "address": "zühtüpaşa mahallesi recep peker caddesi no:28 34714 kadıköy",
         "suggestions": "çiğ köfte"
+      },
+      {
+        "title": "rhm cafe",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "asmalı mescit mahallesi istiklal caddesi no:144 34430 beyoğlu",
+        "suggestions": "-"
+      },
+      {
+        "title": "b.a.d burger basic and delicious",
+        "type": "burger",
+	      "city": "istanbul",
+	      "address": "cihangir mahallesi bakraç sokak no:15/a 34433 beyoğlu",
+        "suggestions": "truffle burger, baharatlı patates kızartması, ayran"
+      },
+      {
+        "title": "enva-i sokak lezzetleri",
+        "type": "burger",
+	      "city": "istanbul",
+	      "address": "suadiye mahallesi kazım özalp sokak no:23/c 34740 kadıköy",
+        "suggestions": "enva-i reçelli burger, baharatlı patates kızartması, ayran"
+      },
+      {
+        "title": "özcan turşu",
+        "type": "pickle juice",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi güneşli bahçe sokak no:7 34710 kadıköy",
+        "suggestions": "turşu suyu"
+      },
+      {
+        "title": "moda aile çay bahçesi",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi park içi yolu 34710 kadıköy",
+        "suggestions": "-"
+      },
+      {
+        "title": "minoa pera",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "evliya çelebi mahallesi meşrutiyet caddesi no:99 34430 beyoğlu",
+        "suggestions": "orman meyveli tart, narlı brownie pasta, filtre kahve, miona burger"
+      },
+      {
+        "title": "49 çukurcuma",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "kuloğlu mahallesi turnacıbaşı caddesi no:49 34433 beyoğlu",
+        "suggestions": "-"
+      },
+      {
+        "title": "babel cafe restaurant",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "kuloğlu mahallesi turnacıbaşı caddesi no:56 34433 beyoğlu",
+        "suggestions": "-"
+      },
+      {
+        "title": "erik ağacı",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "kılıç ali paşa mahallesi şimşirci sokak no:2 34433 cihangir",
+        "suggestions": "-"
+      },
+      {
+        "title": "bento noodles",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "rasimpaşa mahallesi duatepe sokak no:19/a 34716 kadıköy",
+        "suggestions": "dynamite soslu tavuklu noodle"
+      },
+      {
+        "title": "cafe nüans",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "rasimpaşa mahallesi karakolhane caddesi no:29 34716 kadıköy",
+        "suggestions": "filtre kahve, latte mono, çay"
+      },
+      {
+        "title": "minoa akaretler",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "vişnezade mahallesi süleyman seba caddesi no:52/a 34357 beşiktaş",
+        "suggestions": "filtre kahve"
       }
     ]
   }
