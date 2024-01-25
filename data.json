@@ -1429,6 +1429,13 @@
 	      "city": "istanbul",
 	      "address": "vişnezade mahallesi süleyman seba caddesi no:52/a 34357 beşiktaş",
         "suggestions": "filtre kahve"
+      },
+      {
+        "title": "muaf beyoğlu",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "şehit muhtar mahallesi kurabiye sokak no:4 34435 beyoğlu",
+        "suggestions": "tapas tabağı, çedarlı patates kızartması"
       }
     ]
   }
