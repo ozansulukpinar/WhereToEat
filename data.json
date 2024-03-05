@@ -735,7 +735,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "katip mustafa çelebi mahallesi çukurlu çeşme sokak no:15 34433 beyoğlu",
-        "suggestions": "ciğer kavurma"
+        "suggestions": "ciğer kavurma, söğürmeli dürüm, açık ayran"
       },
       {
         "title": "cici piknik",
@@ -840,7 +840,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kılıçali paşa mahallesi akarsu yokuşu caddesi coşkun sokak no:2/1 34433 beyoğlu",
-        "suggestions": "tavuk kızartması, çay"
+        "suggestions": "tavuk kızartması, çay, bonfileli mantı"
       },
       {
         "title": "fiori döner",
@@ -959,14 +959,14 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "cihangir mahallesi sıraselviler caddesi no:91/a 34433 beyoğlu",
-        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta, çilekli rulo, çay"
+        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta, çilekli rulo, çay, venedik"
       },
       {
         "title": "feyzala kurabiye",
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "cevizlik mahallesi hüsreviye sokak günay iş hanı no:7/1 34158 bakırköy",
-        "suggestions": "elmalı, kavala"
+        "suggestions": "elmalı, kavala, cevizli, bademli, tahinli"
       },
       {
         "title": "kıztaşı muhallebicisi",
@@ -1169,7 +1169,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kennedy caddesi galleria alışveriş merkezi no:13/5 34158 bakırköy",
-        "suggestions": "napoliten pizza, margarita pizza"
+        "suggestions": "napoliten pizza, margarita pizza, dana bacon pizza, naneli ayran, fesleğenli ayran"
       },
       {
         "title": "barış büfe",
@@ -1295,7 +1295,7 @@
         "type": "pub",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şehit asım caddesi no:27/b 34353 beşiktaş",
-        "suggestions": "salt and vinegar patates, smash fries"
+        "suggestions": "salt and vinegar patates, smash fries, baharatlı patates"
       },
       {
         "title": "doyum mantı",
@@ -1406,7 +1406,7 @@
         "title": "erik ağacı",
         "type": "pub",
 	      "city": "istanbul",
-	      "address": "kılıç ali paşa mahallesi şimşirci sokak no:2 34433 cihangir",
+	      "address": "kılıç ali paşa mahallesi şimşirci sokak no:2 34433 beyoğlu",
         "suggestions": "-"
       },
       {
@@ -1428,7 +1428,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "vişnezade mahallesi süleyman seba caddesi no:52/a 34357 beşiktaş",
-        "suggestions": "filtre kahve"
+        "suggestions": "filtre kahve, patatesli omlet, keçi peynirli tost, çilekli kek, patates kızartması, çay"
       },
       {
         "title": "muaf beyoğlu",
@@ -1436,6 +1436,167 @@
 	      "city": "istanbul",
 	      "address": "şehit muhtar mahallesi kurabiye sokak no:4 34435 beyoğlu",
         "suggestions": "tapas tabağı, çedarlı patates kızartması"
+      },
+      {
+        "title": "küff kolektif",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "osmanağa mahallesi ali suavi sokak no:9/b 34714 kadıköy",
+        "suggestions": "kuzu cotto pizza, portakal suyu"
+      },
+      {
+        "title": "karga",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi kadife sokak no:16 34710 kadıköy",
+        "suggestions": "-"
+      },
+      {
+        "title": "kimyon",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi kadife sokak no:17 d:c 34710 kadıköy",
+        "suggestions": "tavuk suyu çorba"
+      },
+      {
+        "title": "hizmet kardeşler fırınlı kasap",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "merkez mahallesi ikbal sokak no:6 34164 güngören",
+        "suggestions": "kıyma tava, açık ayran"
+      },
+      {
+        "title": "közde kanat",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "75. yıl mahallesi cumhuriyet caddesi no:52 d:3 34260 sultangazi",
+        "suggestions": "tavuk kanat, açık ayran"
+      },
+      {
+        "title": "kavurmacı burak",
+        "type": "restaurant",
+	      "city": "bolu",
+	      "address": "istanbul 227. km elmalık mevkii no:5 14030 merkez",
+        "suggestions": "etli düğün çorbası, kuzu eti, pilav"
+      },
+      {
+        "title": "birtat ocakbaşı",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "koşuyolu mahallesi kalfaçeşme sokak no:16 34710 kadıköy",
+        "suggestions": "beyran çorbası, ciğer, gavurdağı salatası, kabak tatlısı"
+      },
+      {
+        "title": "çığır lahmacun",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "aksaray mahallesi sinekli bahçe aralığı no:5 d:c 34096 fatih",
+        "suggestions": "lahmacun, açık ayran"
+      },
+      {
+        "title": "bena dondurmaları",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "gazi mahallesi atik ali paşa camii sokak no:17 34120 fatih",
+        "suggestions": "fıstıklı kadayıf üstü dondurma"
+      },
+      {
+        "title": "slasticarna ramis",
+        "type": "patisserie",
+	      "city": "sarajevo",
+	      "address": "saraci 1 71000",
+        "suggestions": "tufahija, kalac, torta, caj"
+      },
+      {
+        "title": "caffe slasticarna badem",
+        "type": "cafe",
+	      "city": "sarajevo",
+	      "address": "ferhadija 43 71000",
+        "suggestions": "trileçe, turski caj"
+      },
+      {
+        "title": "city walk restaurant",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "trg fra grge martica 2 71000",
+        "suggestions": "americano"
+      },
+      {
+        "title": "restoran sokak",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "doktor mustafe pintola 23 71210",
+        "suggestions": "tarhana, sokak pizza"
+      },
+      {
+        "title": "nanina kuhinja",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "kundurdziluk 35 71000",
+        "suggestions": "bosanski lonac, sopska salad"
+      },
+      {
+        "title": "miris dunja sarajevo",
+        "type": "cafe",
+	      "city": "sarajevo",
+	      "address": "cizmedziluk 9 71000",
+        "suggestions": "bosanska kafa, americano"
+      },
+      {
+        "title": "buregdzinica sac",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "bravadziluk mali 2 71000",
+        "suggestions": "mantia, kıymalı, peynirli, ıspanaklı, tavuklu, patatesli"
+      },
+      {
+        "title": "slasticarna egipat",
+        "type": "patisserie",
+	      "city": "sarajevo",
+	      "address": "ferhadija 29 71000",
+        "suggestions": "samrole"
+      },
+      {
+        "title": "caffe bar andar",
+        "type": "cafe",
+	      "city": "sarajevo",
+	      "address": "saraci 22 71000",
+        "suggestions": "-"
+      },
+      {
+        "title": "tesla pub",
+        "type": "pub",
+	      "city": "sarajevo",
+	      "address": "muvekita 1 71000",
+        "suggestions": "-"
+      },
+      {
+        "title": "restoran dzenita",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "culhan 3 71000",
+        "suggestions": "muckalica, bey soup"
+      },
+      {
+        "title": "vapiano",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "franca lehara 2 71000",
+        "suggestions": "calzone"
+      },
+      {
+        "title": "pekara dva goluba",
+        "type": "bakery",
+	      "city": "sarajevo",
+	      "address": "r8j5+hfv 71000",
+        "suggestions": "kifla"
+      },
+      {
+        "title": "cevabdzinica zeljo",
+        "type": "restaurant",
+	      "city": "sarajevo",
+	      "address": "kundurdziluk 19 71000",
+        "suggestions": "cevapcici"
       }
     ]
   }
