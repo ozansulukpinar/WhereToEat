@@ -11,7 +11,7 @@
       },
       {
         "title": "pizza il forno",
-        "type": "restaurant",
+        "type": "pizza",
 	      "city": "ankara",
 	      "address": "üniversiteler mahallesi 1597. caddesi bilkent center avm d:3/74 06800 çankaya",
         "suggestions": "ananaslı pizza"
@@ -32,7 +32,7 @@
       },
       {
         "title": "asım usta pide",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "şehremini mahallesi büyük saray meydanı caddesi 34104 fatih",
         "suggestions": "pizza"
@@ -81,7 +81,7 @@
       },
       {
         "title": "meşhur pide",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "ordu",
 	      "address": "düz mahalle yıldız sokak no:21/b 52100 merkez",
         "suggestions": "pide"
@@ -228,7 +228,7 @@
       },
       {
         "title": "öz develi pidecisi",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "tahtakale mahallesi balkapanı sokak no:20 eminönü",
         "suggestions": "develi cıvıklısı"
@@ -473,7 +473,7 @@
       },
       {
         "title": "öz develi pide",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "katip mustafa çelebi mahallesi billurcu sokak no:5 34433 beyoğlu",
         "suggestions": "develi cıvıklısı"
@@ -634,7 +634,7 @@
       },
       {
         "title": "pizzacı altan",
-        "type": "restaurant",
+        "type": "pizza",
 	      "city": "ankara",
 	      "address": "üniversiteler mahallesi dumlupınar bulvarı no:1 odtü çarşı avm 06800 çankaya",
         "suggestions": "pizza"
@@ -1054,7 +1054,7 @@
       },
       {
         "title": "karadeniz pide ve kebap salonu sezai usta",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "hacı kadın mahallesi katip çelebi caddesi no:47 34134 fatih",
         "suggestions": "karadeniz pidesi, sürahi ayran"
@@ -1068,7 +1068,7 @@
       },
       {
         "title": "hocapaşa pidecisi",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "hoca paşa mahallesi hoca paşa sokak no:11 34110 fatih",
         "suggestions": "tavuklu pide"
@@ -1138,14 +1138,14 @@
       },
       {
         "title": "tarihi pide fırını",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "demirtaş mahallesi kıble çeşme caddesi tesviyeci sokak kuveloğlu iş hanı no:1/7 eminönü",
-        "suggestions": "karışık pide, ayran"
+        "suggestions": "karışık pide"
       },
       {
         "title": "pizza wich",
-        "type": "restaurant",
+        "type": "pizza",
 	      "city": "istanbul",
 	      "address": "asmalı mescit mahallesi meşrutiyet caddesi no:13 34421 beyoğlu",
         "suggestions": "pizza margherita"
@@ -1222,7 +1222,7 @@
       },
       {
         "title": "damak pide ve güveç",
-        "type": "restaurant",
+        "type": "pide",
 	      "city": "istanbul",
 	      "address": "merkez mahallesi ali galipbey caddesi no:62/a 34245 gaziosmanpaşa",
         "suggestions": "güveç, peynirli pide, patatesli pide"
@@ -1313,7 +1313,7 @@
       },
       {
         "title": "sotto pizza",
-        "type": "restaurant",
+        "type": "pizza",
 	      "city": "istanbul",
 	      "address": "kartaltepe mahallesi ülkü sokak no:13 34145 bakırköy",
         "suggestions": "karışık pizza"
@@ -1597,6 +1597,20 @@
 	      "city": "sarajevo",
 	      "address": "kundurdziluk 19 71000",
         "suggestions": "cevapcici"
+      },
+      {
+        "title": "pizzeria il pellicano",
+        "type": "pizza",
+	      "city": "istanbul",
+	      "address": "osmanağa mahallesi kalfaoğlu sokak no:17/a 34710 kadıköy",
+        "suggestions": "bufalina napoli usülü"
+      },
+      {
+        "title": "fazıl bey'in türk kahvesi",
+        "type": "coffee house",
+	      "city": "istanbul",
+	      "address": "caferağa mahallesi serasker caddesi no:1/a 34710 kadıköy",
+        "suggestions": "salep"
       }
     ]
   }
