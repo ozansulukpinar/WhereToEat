@@ -256,21 +256,21 @@
       },
       {
         "title": "mabel çikolata",
-        "type": "patisserie",
+        "type": "chocolate",
 	      "city": "istanbul",
 	      "address": "teşvikiye mahallesi vali konağı caddesi no:38/a 34365 şişli",
         "suggestions": "çikolata"
       },
       {
         "title": "melodi çikolata",
-        "type": "patisserie",
+        "type": "chocolate",
 	      "city": "istanbul",
 	      "address": "teşvikiye mahallesi vali konağı caddesi no:72/b 34371 şişli",
         "suggestions": "çikolata"
       },
       {
         "title": "royal çikolata ve şekerleme",
-        "type": "patisserie",
+        "type": "chocolate",
 	      "city": "istanbul",
 	      "address": "cumhuriyet mahallesi feriköy fırın sokak no:6/a 34380 şişli",
         "suggestions": "çikolata, okaliptus şekeri"
@@ -690,7 +690,7 @@
       },
       {
         "title": "mendel's",
-        "type": "cafe",
+        "type": "chocolate",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şair nedim caddesi no:18/a 34357 beşiktaş",
         "suggestions": "çikolata"
@@ -795,14 +795,14 @@
       },
       {
         "title": "aduja artisanal chocolate",
-        "type": "patisserie",
+        "type": "chocolate",
 	      "city": "ankara",
 	      "address": "barbaros mahallesi abay kunanbay caddesi no:22/d 06680 çankaya",
         "suggestions": "çikolata"
       },
       {
         "title": "guava çikolata",
-        "type": "patisserie",
+        "type": "chocolate",
 	      "city": "ankara",
 	      "address": "barbaros mahallesi büklüm caddesi no:88/a 06680 çankaya",
         "suggestions": "çikolata"
@@ -959,7 +959,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "cihangir mahallesi sıraselviler caddesi no:91/a 34433 beyoğlu",
-        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta, çilekli rulo, venedik, çay"
+        "suggestions": "budapeşte, milföy pasta, malaga, muzlu rulo, yaş pasta, çilekli rulo, venedik, çay, bitter gofret"
       },
       {
         "title": "feyzala kurabiye",
@@ -1015,7 +1015,7 @@
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "camiikebir mahallesi bahriye caddesi no:29 34440 beyoğlu",
-        "suggestions": "kurabiye, galeta"
+        "suggestions": "kurabiye, galeta, un kurabiyesi, kandil simidi"
       },
       {
         "title": "tarihi oktay kurabiye fırını",
@@ -1169,7 +1169,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kennedy caddesi galleria alışveriş merkezi no:13/5 34158 bakırköy",
-        "suggestions": "napoliten pizza, margarita pizza, dana bacon pizza, naneli ayran, fesleğenli ayran"
+        "suggestions": "napoliten pizza, margarita pizza, dana bacon pizza, naneli ayran, fesleğenli ayran, food clan tost, caffe mocha"
       },
       {
         "title": "barış büfe",
@@ -1295,7 +1295,7 @@
         "type": "pub",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şehit asım caddesi no:27/b 34353 beşiktaş",
-        "suggestions": "salt and vinegar patates, smash fries, baharatlı patates"
+        "suggestions": "salt and vinegar patates kızartması, smash fries, baharatlı patates kızartması"
       },
       {
         "title": "doyum mantı",
@@ -1547,7 +1547,7 @@
         "type": "restaurant",
 	      "city": "sarajevo",
 	      "address": "bravadziluk mali 2 71000",
-        "suggestions": "mantia, kıymalı, peynirli, ıspanaklı, tavuklu, patatesli"
+        "suggestions": "mantia, kıymalı börek, peynirli börek, ıspanaklı börek, tavuklu börek, patatesli börek"
       },
       {
         "title": "slasticarna egipat",
@@ -1611,6 +1611,55 @@
 	      "city": "istanbul",
 	      "address": "caferağa mahallesi serasker caddesi no:1/a 34710 kadıköy",
         "suggestions": "salep"
+      },
+      {
+        "title": "urban cafe",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "kuloğlu mahallesi galatasaray kartal sokak no:6/a 34433 beyoğlu",
+        "suggestions": "-"
+      },
+      {
+        "title": "gün bakery",
+        "type": "bakery",
+	      "city": "istanbul",
+	      "address": "sinanpaşa mahallesi şair nedim caddesi özkır apartmanı no:34 34353 beşiktaş",
+        "suggestions": "karakılçıklı ekmek"
+      },
+      {
+        "title": "valonia çikolata",
+        "type": "chocolate",
+	      "city": "istanbul",
+	      "address": "türkali mahallesi ıhlamurdere  caddesi no:40 d:b 34357 beşiktaş",
+        "suggestions": "çikolata"
+      },
+      {
+        "title": "alman bira evi",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "halaskargazi mahallesi vali konağı caddesi no:31 d:39/a 34365 şişli",
+        "suggestions": "baharatlı patates kızartması"
+      },
+      {
+        "title": "the united pub",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "halaskargazi mahallesi vali konağı caddesi no:31 d:39/a 34365 şişli",
+        "suggestions": "baharatlı patates kızartması"
+      },
+      {
+        "title": "mahir lokantası",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "cumhuriyet mahallesi tavukçu fethi sokak no:28/b 34380 şişli",
+        "suggestions": "lahmacun, açık ayran"
+      },
+      {
+        "title": "origami kruvasan",
+        "type": "patisserie",
+	      "city": "istanbul",
+	      "address": "teşvikiye mahallesi nişantaşı ıhlamur yolu sokak no:17 d:1/a 34365 şişli",
+        "suggestions": "kruvasan"
       }
     ]
   }
