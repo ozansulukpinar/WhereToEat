@@ -133,7 +133,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "şehit muhtar mahallesi mis sokak no:18/a 34435 beyoğlu",
-        "suggestions": "profiterol"
+        "suggestions": "profiterol, babaruaz, çay"
       },
       {
         "title": "türk alman kitabevi",
@@ -217,7 +217,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "kemankeş karamustafa paşa mahallesi fransız geçidi sokağı no:1/16 d:17 34425 beyoğlu",
-        "suggestions": "ahududu fındık pasta, filtre kahve"
+        "suggestions": "ahududu fındık pasta, filtre kahve, kütük pasta"
       },
       {
         "title": "nizam pide",
@@ -994,7 +994,7 @@
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şehit asım caddesi no:8 34353 beşiktaş",
-        "suggestions": "acıbadem, koko, kurabiye, kandil simidi, mekik, selanik gevreği, susamlı çubuk, susamlı galeta"
+        "suggestions": "acıbadem, koko, kurabiye, kandil simidi, mekik, selanik gevreği, susamlı çubuk, susamlı galeta, mantı"
       },
       {
         "title": "day day pastanesi",
@@ -1617,14 +1617,14 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "kuloğlu mahallesi galatasaray kartal sokak no:6/a 34433 beyoğlu",
-        "suggestions": "-"
+        "suggestions": "keçi peynirli pizza, trüf parmesanlı patates kızartması, patates kızartması"
       },
       {
         "title": "gün bakery",
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "sinanpaşa mahallesi şair nedim caddesi özkır apartmanı no:34 34353 beşiktaş",
-        "suggestions": "karakılçıklı ekmek"
+        "suggestions": "karakılçıklı ekmek, kruvasan, füme antrikot kahvaltı tabağı, çay"
       },
       {
         "title": "valonia çikolata",
@@ -1644,7 +1644,7 @@
         "title": "the united pub",
         "type": "pub",
 	      "city": "istanbul",
-	      "address": "halaskargazi mahallesi vali konağı caddesi no:31 d:39/a 34365 şişli",
+	      "address": "sinanpaşa mahallesi şehit asım caddesi no:26 34353 beşiktaş",
         "suggestions": "baharatlı patates kızartması"
       },
       {
@@ -1660,6 +1660,97 @@
 	      "city": "istanbul",
 	      "address": "teşvikiye mahallesi nişantaşı ıhlamur yolu sokak no:17 d:1/a 34365 şişli",
         "suggestions": "kruvasan"
+      },
+      {
+        "title": "sütlü cafe",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "harbiye mahallesi maçka caddesi no:2 34367 şişli",
+        "suggestions": "-"
+      },
+      {
+        "title": "asmalı cavit meyhanesi",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "asmalı mescit mahallesi asmalı mescit caddesi no:16/d 34430 beyoğlu",
+        "suggestions": "yoğurtlu ot kavurma, beyaz peynir, fava, karides"
+      },
+      {
+        "title": "kakule kahve",
+        "type": "coffee house",
+	      "city": "ankara",
+	      "address": "kavaklıdere mahallesi kızılırmak caddesi no:17 06680 çankaya",
+        "suggestions": "tart, filtre kahve"
+      },
+      {
+        "title": "kıtır",
+        "type": "pub",
+	      "city": "ankara",
+	      "address": "kavaklıdere mahallesi tunalı hilmi caddesi no:114 d:k 06680 çankaya",
+        "suggestions": "baharatlı patates"
+      },
+      {
+        "title": "kulüp mujgan",
+        "type": "pub",
+	      "city": "ankara",
+	      "address": "kavaklıdere mahallesi bestekar caddesi no:38/a 06680 çankaya",
+        "suggestions": "dörtlü börek tabağı"
+      },
+      {
+        "title": "bonapple",
+        "type": "cafe",
+	      "city": "ankara",
+	      "address": "kavaklıdere mahallesi bestekar caddesi no:39 06680 çankaya",
+        "suggestions": "vişneli tart, filtre kahve"
+      },
+      {
+        "title": "the soul pub",
+        "type": "pub",
+	      "city": "ankara",
+	      "address": "remzi oğuz arık mahallesi bülten caddesi no:4/a çankaya",
+        "suggestions": "baharatlı patates, sebzeli wrap"
+      },
+      {
+        "title": "köfteci mehmet usta",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "harbiye mahallesi taşkışla caddesi 34367 şişli",
+        "suggestions": "karışık dürüm"
+      },
+      {
+        "title": "tarihi kuzguncuk fırını",
+        "type": "bakery",
+	      "city": "istanbul",
+	      "address": "kuzguncuk mahallesi icadiye caddesi no:24/a 34674 üsküdar",
+        "suggestions": "prenses, fıstıklı hurmalı kuzguncuk mantarı"
+      },
+      {
+        "title": "adanalı şehmuz usta",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "osmanağa mahallesi kuşdili caddesi no:4 kadıköy",
+        "suggestions": "tavuk suyu çorbası, sütlaç, çay"
+      },
+      {
+        "title": "la vie praline",
+        "type": "chocolate",
+	      "city": "istanbul",
+	      "address": "vişnezade mahallesi süleyman seba caddesi no:77/b 34050 beşiktaş",
+        "suggestions": "çikolata"
+      },
+      {
+        "title": "nevmekan kuzguncuk",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "icadiye mahallesi icadiye hamamı sokak no:3 üsküdar",
+        "suggestions": "-"
+      },
+      {
+        "title": "nail kitabevi",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "kuzguncuk mahallesi icadiye caddesi no:32 34674 üsküdar",
+        "suggestions": "-"
       }
     ]
   }
