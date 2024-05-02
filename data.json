@@ -133,7 +133,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "şehit muhtar mahallesi mis sokak no:18/a 34435 beyoğlu",
-        "suggestions": "profiterol, babaruaz, çay"
+        "suggestions": "profiterol, babaruaz, çay, paskalya çöreği"
       },
       {
         "title": "türk alman kitabevi",
@@ -679,7 +679,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "katip mustafa çelebi mahallesi sadri alışık sokak no:11 d:12 34435 beyoğlu",
-        "suggestions": "menemen, çay"
+        "suggestions": "menemen, çay, bal kaymak"
       },
       {
         "title": "kelle söğüş muammer usta",
@@ -1008,7 +1008,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "feriköy mahallesi kurtuluş caddesi no:182/b 34377 şişli",
-        "suggestions": "profiterol, ekler"
+        "suggestions": "profiterol, ekler, paskalya çöreği"
       },
       {
         "title": "bahriye fırını",
@@ -1078,7 +1078,7 @@
         "type": "patisserie",
 	      "city": "istanbul",
 	      "address": "hüseyinağa mahallesi dudu odaları sokak no:3 34435 beyoğlu",
-        "suggestions": "kaymaklı ekmek kadayıfı, kaymaklı ayva tatlısı, çay"
+        "suggestions": "kaymaklı ekmek kadayıfı, kaymaklı ayva tatlısı, çay, cevizli padişah baklavası, kaymak"
       },
       {
         "title": "şirin fırın",
@@ -1498,7 +1498,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "gazi mahallesi atik ali paşa camii sokak no:17 34120 fatih",
-        "suggestions": "fıstıklı kadayıf üstü dondurma"
+        "suggestions": "fıstıklı kadayıf üstü dondurma, dondurma"
       },
       {
         "title": "slasticarna ramis",
