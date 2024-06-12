@@ -147,7 +147,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "meşrutiyet mahallesi şair nigar sokak no:11 34365 şişli",
-        "suggestions": "orman meyveli cheesecake, süt reçelli cheesecake, filtre kahve"
+        "suggestions": "orman meyveli cheesecake, süt reçelli cheesecake, filtre kahve, havuçlu kek"
       },
       {
         "title": "karafırın",
@@ -217,7 +217,7 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "kemankeş karamustafa paşa mahallesi fransız geçidi sokağı no:1/16 d:17 34425 beyoğlu",
-        "suggestions": "ahududu fındık pasta, filtre kahve, kütük pasta"
+        "suggestions": "ahududu fındık pasta, filtre kahve, kütük pasta, çilekli mereng pasta"
       },
       {
         "title": "nizam pide",
@@ -718,7 +718,7 @@
       },
       {
         "title": "karaca gıda",
-        "type": "restaurant",
+        "type": "market",
 	      "city": "istanbul",
 	      "address": "acıbadem mahallesi bedrettin sokak 34718 kadıköy",
         "suggestions": "gazoz"
@@ -735,7 +735,7 @@
         "type": "restaurant",
 	      "city": "istanbul",
 	      "address": "katip mustafa çelebi mahallesi çukurlu çeşme sokak no:15 34433 beyoğlu",
-        "suggestions": "ciğer kavurma, söğürmeli dürüm, açık ayran"
+        "suggestions": "ciğer kavurma, söğürmeli dürüm, açık ayran, haşhaş dürüm, yürek şiş dürüm"
       },
       {
         "title": "cici piknik",
@@ -1001,7 +1001,7 @@
         "type": "bakery",
 	      "city": "istanbul",
 	      "address": "mollafenari mahallesi iskender boğazı sokak no:18 34126 fatih",
-        "suggestions": "elmalı turta, kandil simidi, tahinli çörek"
+        "suggestions": "elmalı turta, kandil simidi, tahinli çörek, acıbadem"
       },
       {
         "title": "nazar pastanesi",
@@ -1040,10 +1040,10 @@
       },
       {
         "title": "çağrı market",
-        "type": "restaurant",
+        "type": "market",
 	      "city": "istanbul",
 	      "address": "paşa mahallesi ortanca sokak no:42 34379 şişli",
-        "suggestions": "(ancora) elma suyu, erik suyu, vişne suyu, kara üzüm suyu, karadut suyu, nar suyu, portakal suyu, karışık meyve suyu"
+        "suggestions": "(ancora) elma suyu, erik suyu, vişne suyu, kara üzüm suyu, karadut suyu, nar suyu, portakal suyu, karışık meyve suyu, portakal-nar suyu"
       },
       {
         "title": "iskenderun erdal usta'nın meşhur zurna dürümü",
