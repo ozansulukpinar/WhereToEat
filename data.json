@@ -46,7 +46,7 @@
       },
       {
         "title": "girandola gelato italiano",
-        "type": "restaurant",
+        "type": "ice cream",
 	      "city": "istanbul",
 	      "address": "arnavutköy mahallesi arnavutköy caddesi no:109 34345 beşiktaş",
         "suggestions": "dondurma"
@@ -123,7 +123,7 @@
       },
       {
         "title": "serez dondurmacısı",
-        "type": "restaurant",
+        "type": "ice cream",
 	      "city": "istanbul",
 	      "address": "kartaltepe mahallesi ahu sokağı no:4 34145 bakırköy",
         "suggestions": "dondurma"
@@ -487,7 +487,7 @@
       },
       {
         "title": "meşhur dondurmacı ali usta",
-        "type": "restaurant",
+        "type": "ice cream",
 	      "city": "istanbul",
 	      "address": "caferağa mahallesi moda caddesi 34710 kadıköy",
         "suggestions": "dondurma"
@@ -1495,7 +1495,7 @@
       },
       {
         "title": "bena dondurmaları",
-        "type": "restaurant",
+        "type": "ice cream",
 	      "city": "istanbul",
 	      "address": "gazi mahallesi atik ali paşa camii sokak no:17 34120 fatih",
         "suggestions": "fıstıklı kadayıf üstü dondurma, dondurma"
@@ -1750,6 +1750,300 @@
         "type": "cafe",
 	      "city": "istanbul",
 	      "address": "kuzguncuk mahallesi icadiye caddesi no:32 34674 üsküdar",
+        "suggestions": "-"
+      },
+      {
+        "title": "amelie's garden",
+        "type": "cafe",
+	      "city": "ankara",
+	      "address": "-",
+        "suggestions": "caramel latte"
+      },
+      {
+        "title": "dem meyhanesi",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "patates kızartması"
+      },
+      {
+        "title": "bolçi beyoğlu çikolatası",
+        "type": "chocolate",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "çikolata"
+      },
+      {
+        "title": "ropi karaköy",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "filtre kahve"
+      },
+      {
+        "title": "pera bakery",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "tiramisu, filtre kahve, çay"
+      },
+      {
+        "title": "kruss maçka",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "yayla çorbası, kuru patlıcan dolması"
+      },
+      {
+        "title": "yalla falafel",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "falafel wrap, yoğurtlu wrap"
+      },
+      {
+        "title": "meşhur fulya tezgah dürüm",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "adana kebap"
+      },
+      {
+        "title": "nappo",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "tartufata, cheesus crust, over the clouds, margherita"
+      },
+      {
+        "title": "bordel",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "azgın tavuk, spaghet, bratwurst, kasekrainer"
+      },
+      {
+        "title": "cremeria milano",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "bitter sorbe, vişne süt, nane"
+      },
+      {
+        "title": "just coffee roastery",
+        "type": "coffee house",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "filtre kahve"
+      },
+      {
+        "title": "espressolab staylab",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "-"
+      },
+      {
+        "title": "tuana şarküteri",
+        "type": "market",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "eski kaşar"
+      },
+      {
+        "title": "tuşba şarküteri",
+        "type": "market",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "tam eski kaşar"
+      },
+      {
+        "title": "tam değirmen fırın",
+        "type": "bakery",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "baget ekmek, berliner"
+      },
+      {
+        "title": "antakya mutfağı",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "karışık meze tabağı, harbiye beyti, kıyma kebap, fıstıklı burma, çay"
+      },
+      {
+        "title": "feriköy pazarı gözlemecisi haluk",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "peynirli gözleme, ıspanaklı gözleme, çay"
+      },
+      {
+        "title": "taze sıkım meyve suyu ayten",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "karışık meyve suyu"
+      },
+      {
+        "title": "parantez karaköy",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "patates kızartması"
+      },
+      {
+        "title": "gözde wine house",
+        "type": "market",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "-"
+      },
+      {
+        "title": "fırın arma",
+        "type": "bakery",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "mardin halkası, paskalya çöreği"
+      },
+      {
+        "title": "file market",
+        "type": "market",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "berliner, dondurulmuş pizza, beypazarı kurusu, portakal suyu"
+      },
+      {
+        "title": "rock n rolla",
+        "type": "pub",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "-"
+      },
+      {
+        "title": "latife türk kahvesi",
+        "type": "coffee house",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "türk kahvesi"
+      },
+      {
+        "title": "kılavuz döner",
+        "type": "doner kebab",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "et döner, açık ayran"
+      },
+      {
+        "title": "ülker shop satış mağazası",
+        "type": "market",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "-"
+      },
+      {
+        "title": "dozze coffee",
+        "type": "cafe",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "çikolatalı cookie, frambuazlı cheesecake"
+      },
+      {
+        "title": "nato lokantası",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "pilav üstü döner, açık ayran"
+      },
+      {
+        "title": "öz kilis lahmacun",
+        "type": "lahmacun",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "lahmacun, sarımsaklı lahmacun, açık ayran"
+      },
+      {
+        "title": "sinem dondurma",
+        "type": "ice cream",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "sakızlı"
+      },
+      {
+        "title": "kalpazankaya restaurant",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "atom, ada güzeli, girit ezmesi, ahtapot, beyaz peynir, çıtır kalamar"
+      },
+      {
+        "title": "keskin döner",
+        "type": "restaurant",
+	      "city": "istanbul",
+	      "address": "-",
+        "suggestions": "et döner"
+      },
+      {
+        "title": "pizza bucko",
+        "type": "restaurant",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "-"
+      },
+      {
+        "title": "skadarlijske kobasice",
+        "type": "restaurant",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "bavarian"
+      },
+      {
+        "title": "coffee dream",
+        "type": "cafe",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "moka kafa"
+      },
+      {
+        "title": "pizzeria cika ljubina",
+        "type": "restaurant",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "-"
+      },
+      {
+        "title": "coffee station",
+        "type": "coffee house",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "filtre kahve"
+      },
+      {
+        "title": "radno verne",
+        "type": "bakery",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "vişneli, kruvasan"
+      },
+      {
+        "title": "kafeterja",
+        "type": "cafe",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "bacon spinach benedict, protein pancake bowl, filtre kahve, portakal suyu"
+      },
+      {
+        "title": "urban kofein",
+        "type": "cafe",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "bacon spinach benedict, protein pancake bowl, filtre kahve, portakal suyu"
+      },
+      {
+        "title": "kaldrma bar",
+        "type": "pub",
+	      "city": "belgrade",
+	      "address": "-",
         "suggestions": "-"
       }
     ]
