@@ -2045,6 +2045,13 @@
 	      "city": "belgrade",
 	      "address": "-",
         "suggestions": "-"
+      },
+      {
+        "title": "icebox",
+        "type": "ice cream",
+	      "city": "belgrade",
+	      "address": "-",
+        "suggestions": "-"
       }
     ]
   }
